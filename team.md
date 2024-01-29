@@ -1,7 +1,7 @@
 # Braden
 
 # Drake
-
+Proficient in everything
 # Nicholas
 
 # Nolan
