@@ -5,3 +5,4 @@
 # Nicholas
 
 # Nolan
+Proficient in C and python
